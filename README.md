@@ -75,8 +75,7 @@ Users can enter customer details and instantly see whether the customer is **lik
 
 Clone the repository:
 
-git clone https:[//github.com/YOUR_GITHUB_USERNAME/Telecom_churn_prediction.git](https://github.com/shraddhamagare/Telecom_Customer_Churn_Prediction/tree/main)
-
+git clone https:https://github.com/shraddhamagare/Telecom_Customer_Churn_Prediction.git
 Move into the project folder:
 
 cd Telecom_churn_prediction
