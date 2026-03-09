@@ -76,15 +76,16 @@ Users can enter customer details and instantly see whether the customer is **lik
 Clone the repository:
 
 git clone https:https://github.com/shraddhamagare/Telecom_Customer_Churn_Prediction.git
-Move into the project folder:
+
+- Move into the project folder:
 
 cd Telecom_churn_prediction
 
-Install dependencies:
+- Install dependencies:
 
 pip install -r requirements.txt
 
-Run the Streamlit application:
+- Run the Streamlit application:
 
 streamlit run app.py
 
