@@ -92,6 +92,7 @@ streamlit run app.py
 
 ## 📂 Project Structure
 
+```
 Telecom_churn_prediction
 │
 ├── app.py                 # Streamlit web application
@@ -99,6 +100,8 @@ Telecom_churn_prediction
 ├── telecom_churn.ipynb    # Data analysis & model training
 ├── requirements.txt       # Project dependencies
 └── README.md              # Project documentation
+```
+
 
 ---
 
